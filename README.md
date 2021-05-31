@@ -3,7 +3,6 @@ Neural Network Trained using Genetic Algorithm which acts as the brain for the s
 
 The snake looks in the 8 direction for food, body part and the boundary which acts as the 24 input for the Neural Network.
 
-<img src= "/samples/generation5.gif"> <img src= "/samples/generation23.gif">
 
 ## Getting Started
 ### Prerequisites
